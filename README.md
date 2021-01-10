@@ -1,2 +1,1 @@
-# insankaynaklari
-proje yüklendi
+"# -nsan-Kaynaklar-" 
